@@ -71,7 +71,6 @@ public class Main {
         }
         System.out.println("");
     }
-
     public static void task4() {
         System.out.println("Задача 4");
         int[] array = new int[3];

@@ -14,20 +14,11 @@ public class Main {
         array[0] = 1;
         array[1] = 2;
         array[2] = 3;
-        System.out.println(array[0]);
-        System.out.println(array[1]);
-        System.out.println(array[2]);
-        System.out.println("");
         double[] arrayTwoo = {1.57, 7.654, 9.986};
-        System.out.println(arrayTwoo[0]);
-        System.out.println(arrayTwoo[1]);
-        System.out.println(arrayTwoo[2]);
-        System.out.println("");
-        int[] arrayThree = {5, 8, 63, 46, 86, 563};
-        for (int i = 0; i < arrayThree.length; i++) {
-            System.out.println(arrayThree[i]);
-        }
-    }
+       int[] arrayThree = {5, 8, 63, 46, 86, 563};
+       }
+
+
 
     public static void task2() {
         System.out.println("Задача 2");
